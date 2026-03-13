@@ -1,5 +1,5 @@
 # Week 4 Assignment
-Name: Blessy Muigai
+Name: Blessy Muigai.
 ## What is Data?
 Data is raw, unorganized facts, figures, symbols, or observations that lack inherent meaning until processed.
 ## Explain the difference between:
