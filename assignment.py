@@ -1,3 +1,5 @@
+# QUESTION 4
+print("Hello AI Students")
 
 # QUESTION 5
 Name= "Blessy"
